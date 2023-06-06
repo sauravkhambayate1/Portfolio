@@ -38,7 +38,7 @@ nav ul li a {
 
 /* Add styles for the hero section */
 section#hero {
-  background: url("C:\Users\Saurav Khambayate\Downloads\anas-alshanti-feXpdV001o4-unsplash.jpg") no-repeat center/cover;
+  background: url("anas-alshanti-feXpdV001o4-unsplash.jpg") no-repeat center/cover;
   height: 500px;
   display: flex;
   flex-direction: column;
@@ -70,7 +70,7 @@ section#hero button {
 
 /* Add styles for the about section */
 section#about {
-  background: url("C:\Users\Saurav Khambayate\Downloads\joanna-kosinska-7ACuHoezUYk-unsplash.jpg") no-repeat center/cover;
+  background: url("joanna-kosinska-7ACuHoezUYk-unsplash.jpg") no-repeat center/cover;
   padding: 30px;
   text-align: center;
   color: #fff;
@@ -114,7 +114,7 @@ section#services li {
 
 /* Add styles for the contact section */
 section#contact {
-  background: url("C:\Users\Saurav Khambayate\Downloads\contact img.webp") no-repeat center/cover;
+  background: url("contact img.webp") no-repeat center/cover;
   padding: 50px;
   text-align: center;
 }
@@ -166,7 +166,7 @@ footer p {
 
 /* Projects */
 section#projects{
-  background: url("C:\Users\Saurav Khambayate\Downloads\ilya-pavlov-OqtafYT5kTw-unsplash.jpg") no-repeat center/cover;
+  background: url("ilya-pavlov-OqtafYT5kTw-unsplash.jpg") no-repeat center/cover;
   padding: 30px;
   text-align: center;
   color: #fff;
@@ -174,7 +174,7 @@ section#projects{
 }
 
 section#skills{
-  background: url("C:\Users\Saurav Khambayate\Downloads\sabri-tuzcu-wunVFNvqhfE-unsplash.jpg") no-repeat center/cover;
+  background: url("sabri-tuzcu-wunVFNvqhfE-unsplash.jpg") no-repeat center/cover;
   padding: 30px;
   text-align: center;
   color: black;
