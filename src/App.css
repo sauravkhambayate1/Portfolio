@@ -1,0 +1,243 @@
+/* Add your global CSS styles here */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Add styles for the navbar */
+nav {
+  background: #333;
+  padding: 20px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+}
+
+/* Add styles for the hero section */
+section#hero {
+  background: url("C:\Users\Saurav Khambayate\Downloads\anas-alshanti-feXpdV001o4-unsplash.jpg") no-repeat center/cover;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+section#hero h1 {
+  color: #fff;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+section#hero p {
+  color: #fff;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+section#hero button {
+  background: #fff;
+  border: none;
+  padding: 10px 20px;
+  color: #333;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Add styles for the about section */
+section#about {
+  background: url("C:\Users\Saurav Khambayate\Downloads\joanna-kosinska-7ACuHoezUYk-unsplash.jpg") no-repeat center/cover;
+  padding: 30px;
+  text-align: center;
+  color: #fff;
+  line-height: 43px;
+}
+
+section#about h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+section#about p {
+  font-size: 18px;
+  color: #fff;
+}
+
+
+
+/* Add styles for the services section */
+section#services {
+  background: #fff;
+  padding: 50px;
+  text-align: center;
+}
+
+section#services h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+section#services ul {
+  display: flex;
+  justify-content: center;
+}
+
+section#services li {
+  margin: 0 10px;
+  font-size: 18px;
+  color: #555;
+}
+
+/* Add styles for the contact section */
+section#contact {
+  background: url("C:\Users\Saurav Khambayate\Downloads\contact img.webp") no-repeat center/cover;
+  padding: 50px;
+  text-align: center;
+}
+
+section#contact h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+
+section#contact form input,
+section#contact form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 50px;
+  background-color: rgb(176, 173, 173);
+  line-height: 54px
+}
+
+section#contact form button {
+  background: #333;
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Add styles for the footer */
+footer {
+  background: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+footer p {
+  color: #fff;
+  font-size: 14px;
+}
+.email{
+  color: lightblue;
+  cursor: pointer;
+  
+}
+.email:hover{
+  color: blue;
+}
+
+/* Projects */
+section#projects{
+  background: url("C:\Users\Saurav Khambayate\Downloads\ilya-pavlov-OqtafYT5kTw-unsplash.jpg") no-repeat center/cover;
+  padding: 30px;
+  text-align: center;
+  color: #fff;
+  line-height: 410px;
+}
+
+section#skills{
+  background: url("C:\Users\Saurav Khambayate\Downloads\sabri-tuzcu-wunVFNvqhfE-unsplash.jpg") no-repeat center/cover;
+  padding: 30px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 45px;
+}
+.text_data{
+  cursor: pointer;
+  background-color: yellow;
+}
+.text_data:hover{
+ color: blue;
+}
+.head_skils{
+  color: whitesmoke;
+}
+
+/* ***************************** */
+
+/* ContactForm.css */
+
+.contact-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.contact-form textarea {
+  height: 70px;
+}
+
+.contact-form button {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: darkblue;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #888;
+  box-shadow: 0 0 5px #888;
+}
+
+
+
+
+
+
